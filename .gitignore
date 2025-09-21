@@ -1,8 +1,0 @@
-# dependencies
-node_modules
-# build
-dist
-client/dist
-# env
-server/.env
-.DS_Store
